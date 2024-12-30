@@ -1,6 +1,6 @@
 ---
 layout: WELCOME TO MY PORTFOLIO
-title: Who is Basil?
+title:
 ---
 
 ## Who is Dr.Basil?
