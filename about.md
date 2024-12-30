@@ -1,4 +1,4 @@
 ---
-layout:
+layout:ABOUT
 title:
 ---
