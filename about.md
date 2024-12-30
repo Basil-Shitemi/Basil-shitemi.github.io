@@ -1,8 +1,4 @@
 ---
-layout: WELCOME TO MY PORTFOLIO
+layout:
 title:
 ---
-
-## Who is Dr.Basil?
-
-Hi, nice to meet you.
