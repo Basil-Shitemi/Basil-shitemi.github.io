@@ -12,5 +12,5 @@ title: About
 
 - Beyond my professional pursuits, I am equally dedicated to fitness and wellness, recognizing the profound connection between physical health and overall quality of life. I aim to inspire others to embrace a balanced lifestyle, blending scientific insights with personal empowerment.
 
-If you’re working at the intersection of healthcare and technology or have insights to share, I’d love to connect and learn from your experiences, my [email](basilshitemi@gmail.com) and my [linkedin](www.linkedin.com/in/dr-basil-shitemi-a38b86338)
+If you’re working at the intersection of healthcare and technology or have insights to share, I’d love to connect and learn from your experiences, my [email] (basilshitemi@gmail.com) and my [linkedin] (www.linkedin.com/in/dr-basil-shitemi-a38b86338)
 
